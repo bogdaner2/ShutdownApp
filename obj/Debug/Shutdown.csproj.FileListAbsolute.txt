@@ -25,3 +25,17 @@ C:\Users\Богдан\Desktop\Other\Shutdown\Shutdown\obj\Debug\MainWindow.baml
 C:\Users\Богдан\Desktop\Other\Shutdown\Shutdown\obj\Debug\Shutdown.g.resources
 C:\Users\Богдан\Desktop\Other\Shutdown\Shutdown\obj\Debug\Shutdown.Properties.Resources.resources
 C:\Users\Богдан\Desktop\Other\Shutdown\Shutdown\obj\Debug\Shutdown.csproj.GenerateResource.Cache
+D:\ShutdownApp\bin\Debug\ShutdownApp.exe.config
+D:\ShutdownApp\bin\Debug\ShutdownApp.exe
+D:\ShutdownApp\bin\Debug\ShutdownApp.pdb
+D:\ShutdownApp\obj\Debug\Shutdown.csprojResolveAssemblyReference.cache
+D:\ShutdownApp\obj\Debug\MainWindow.g.cs
+D:\ShutdownApp\obj\Debug\App.g.cs
+D:\ShutdownApp\obj\Debug\ShutdownApp_MarkupCompile.cache
+D:\ShutdownApp\obj\Debug\ShutdownApp_MarkupCompile.lref
+D:\ShutdownApp\obj\Debug\MainWindow.baml
+D:\ShutdownApp\obj\Debug\ShutdownApp.g.resources
+D:\ShutdownApp\obj\Debug\ShutdownApp.Properties.Resources.resources
+D:\ShutdownApp\obj\Debug\Shutdown.csproj.GenerateResource.Cache
+D:\ShutdownApp\obj\Debug\ShutdownApp.exe
+D:\ShutdownApp\obj\Debug\ShutdownApp.pdb

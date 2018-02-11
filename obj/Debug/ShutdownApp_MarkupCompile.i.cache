@@ -4,15 +4,15 @@
 winexe
 C#
 .cs
-D:\ShutdownApp\obj\Release\
+D:\ShutdownApp\obj\Debug\
 ShutdownApp
 none
 false
-TRACE
+DEBUG;TRACE
 D:\ShutdownApp\App.xaml
 11151548125
 
-9-319995214
+9-1210477729
 14-1001767708
 MainWindow.xaml;
 

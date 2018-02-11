@@ -12,3 +12,17 @@ C:\Users\Богдан\Desktop\Other\Shutdown\Shutdown\obj\Release\ShutdownApp.g.
 C:\Users\Богдан\Desktop\Other\Shutdown\Shutdown\obj\Release\ShutdownApp.Properties.Resources.resources
 C:\Users\Богдан\Desktop\Other\Shutdown\Shutdown\obj\Release\ShutdownApp.exe
 C:\Users\Богдан\Desktop\Other\Shutdown\Shutdown\obj\Release\ShutdownApp.pdb
+D:\ShutdownApp\bin\Release\ShutdownApp.exe.config
+D:\ShutdownApp\obj\Release\ShutdownApp.exe
+D:\ShutdownApp\obj\Release\ShutdownApp.pdb
+D:\ShutdownApp\bin\Release\ShutdownApp.exe
+D:\ShutdownApp\bin\Release\ShutdownApp.pdb
+D:\ShutdownApp\obj\Release\Shutdown.csprojResolveAssemblyReference.cache
+D:\ShutdownApp\obj\Release\MainWindow.g.cs
+D:\ShutdownApp\obj\Release\App.g.cs
+D:\ShutdownApp\obj\Release\ShutdownApp_MarkupCompile.cache
+D:\ShutdownApp\obj\Release\ShutdownApp_MarkupCompile.lref
+D:\ShutdownApp\obj\Release\MainWindow.baml
+D:\ShutdownApp\obj\Release\ShutdownApp.g.resources
+D:\ShutdownApp\obj\Release\ShutdownApp.Properties.Resources.resources
+D:\ShutdownApp\obj\Release\Shutdown.csproj.GenerateResource.Cache

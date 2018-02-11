@@ -7,10 +7,10 @@
         mc:Ignorable="d"
         Title="Shutdown" Height="280" Width="268" WindowStartupLocation="CenterScreen" Icon="Resources\mainIcon.ico">
     <Grid>
-        <Button x:Name="btnAccept" Content="Подтвердить" Margin="82,99,89.6,0" VerticalAlignment="Top" Height="28" Click="btnAccept_Click"/>
+        <Button x:Name="btnAccept" Content="Accept" Margin="82,99,89.6,0" VerticalAlignment="Top" Height="28" Click="btnAccept_Click"/>
         <TextBox x:Name="textBox" Height="23" TextAlignment="Center" MaxLength="4" Margin="29,63,29.6,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" FontWeight="Bold" />
-        <TextBlock x:Name="textBlockInfo" TextWrapping="Wrap" VerticalAlignment="Top" Margin="29,27,29.6,0" Height="31"><Run Text="Через сколько мин. выключить комп. "/></TextBlock>
-        <TextBlock x:Name="textBlockTime" TextWrapping="Wrap" Text="Осталось : 00:00:00" TextAlignment="Center" Margin="29,146,29.6,77.4"/>
-        <Button x:Name="btnCancel" Content="Отменить" Margin="82,178,89.6,0" Height="28" Click="btnCancel_Click" VerticalAlignment="Top"/>
+        <TextBlock x:Name="textBlockInfo" TextWrapping="Wrap" VerticalAlignment="Top" Margin="29,27,29.6,0" Height="31" Text="How long (in minutes) before the shutdown"/>
+        <TextBlock x:Name="textBlockTime" TextWrapping="Wrap" Text="Last : 00:00:00" TextAlignment="Center" Margin="22,146,29.6,77.4"/>
+        <Button x:Name="btnCancel" Content="Cancel" Margin="82,178,89.6,0" Height="28" Click="btnCancel_Click" VerticalAlignment="Top"/>
     </Grid>
 </Window>

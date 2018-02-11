@@ -23,7 +23,7 @@ namespace Shutdown
             if (minutes == 0 && hours > 0) { minutes = 60; hours -= 1; }
             if (seconds == 0) { seconds = 60; minutes -= 1; }
             seconds--;
-            textBlockTime.Text = string.Format("Осталось: {0:d2}:{1:d2}:{2:d2}",
+            textBlockTime.Text = string.Format("Left: {0:d2}:{1:d2}:{2:d2}",
                 hours,
                 (minutes == 0) ? 0 : minutes -1,
                 minutes == 0 && seconds == 59  ? 0 : seconds);
@@ -46,7 +46,7 @@ namespace Shutdown
         {
             System.Diagnostics.Process.Start("shutdown", "/a");
             dispatcherTimer.Stop();
-            textBlockTime.Text = "Осталось: 00:00:00";
+            textBlockTime.Text = "Left: 00:00:00";
             textBox.IsEnabled = true;
             seconds = 60;
         }
