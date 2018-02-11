@@ -1,0 +1,14 @@
+C:\Users\Богдан\Desktop\Other\Shutdown\Shutdown\obj\Release\MainWindow.g.cs
+C:\Users\Богдан\Desktop\Other\Shutdown\Shutdown\obj\Release\App.g.cs
+C:\Users\Богдан\Desktop\Other\Shutdown\Shutdown\obj\Release\MainWindow.baml
+C:\Users\Богдан\Desktop\Other\Shutdown\Shutdown\obj\Release\Shutdown.csproj.GenerateResource.Cache
+C:\Users\Богдан\Desktop\Other\Shutdown\Shutdown\obj\Release\Shutdown.csprojResolveAssemblyReference.cache
+C:\Users\Богдан\Desktop\Other\Shutdown\Shutdown\bin\Release\ShutdownApp.exe.config
+C:\Users\Богдан\Desktop\Other\Shutdown\Shutdown\bin\Release\ShutdownApp.exe
+C:\Users\Богдан\Desktop\Other\Shutdown\Shutdown\bin\Release\ShutdownApp.pdb
+C:\Users\Богдан\Desktop\Other\Shutdown\Shutdown\obj\Release\ShutdownApp_MarkupCompile.cache
+C:\Users\Богдан\Desktop\Other\Shutdown\Shutdown\obj\Release\ShutdownApp_MarkupCompile.lref
+C:\Users\Богдан\Desktop\Other\Shutdown\Shutdown\obj\Release\ShutdownApp.g.resources
+C:\Users\Богдан\Desktop\Other\Shutdown\Shutdown\obj\Release\ShutdownApp.Properties.Resources.resources
+C:\Users\Богдан\Desktop\Other\Shutdown\Shutdown\obj\Release\ShutdownApp.exe
+C:\Users\Богдан\Desktop\Other\Shutdown\Shutdown\obj\Release\ShutdownApp.pdb

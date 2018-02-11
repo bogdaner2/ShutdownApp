@@ -1,0 +1,15 @@
+C:\Users\Богдан\Desktop\Other\ShutdownER\ShutdownER\bin\Debug\ShutdownER.exe.config
+C:\Users\Богдан\Desktop\Other\ShutdownER\ShutdownER\bin\Debug\ShutdownER.exe
+C:\Users\Богдан\Desktop\Other\ShutdownER\ShutdownER\bin\Debug\ShutdownER.pdb
+C:\Users\Богдан\Desktop\Other\ShutdownER\ShutdownER\obj\Debug\ShutdownER.csprojResolveAssemblyReference.cache
+C:\Users\Богдан\Desktop\Other\ShutdownER\ShutdownER\obj\Debug\MainWindow.g.cs
+C:\Users\Богдан\Desktop\Other\ShutdownER\ShutdownER\obj\Debug\App.g.cs
+C:\Users\Богдан\Desktop\Other\ShutdownER\ShutdownER\obj\Debug\ShutdownER_MarkupCompile.cache
+C:\Users\Богдан\Desktop\Other\ShutdownER\ShutdownER\obj\Debug\ShutdownER_MarkupCompile.lref
+C:\Users\Богдан\Desktop\Other\ShutdownER\ShutdownER\obj\Debug\MainWindow.baml
+C:\Users\Богдан\Desktop\Other\ShutdownER\ShutdownER\obj\Debug\ShutdownER.g.resources
+C:\Users\Богдан\Desktop\Other\ShutdownER\ShutdownER\obj\Debug\ShutdownER.Properties.Resources.resources
+C:\Users\Богдан\Desktop\Other\ShutdownER\ShutdownER\obj\Debug\ShutdownER.csproj.GenerateResource.Cache
+C:\Users\Богдан\Desktop\Other\ShutdownER\ShutdownER\obj\Debug\ShutdownER.exe
+C:\Users\Богдан\Desktop\Other\ShutdownER\ShutdownER\obj\Debug\ShutdownER.pdb
+C:\Users\Богдан\Desktop\Other\ShutdownER\ShutdownER\bin\Debug\Shutdown.exe.config
